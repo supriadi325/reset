@@ -1,1 +1,1 @@
-# reset
+# reset dan revert
